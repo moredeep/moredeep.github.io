@@ -7,6 +7,6 @@
 - default: menu_about
   url:   "about"
 
-- title: "Jekyll Paper"
+- title: "Home Page"
   absoluteUrl: true
-  url: "https://github.com/ghosind/Jekyll-Paper"
+  url: "http://vulnerability.kr"
