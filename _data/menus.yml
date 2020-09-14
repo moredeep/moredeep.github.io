@@ -1,5 +1,5 @@
 - default: menu_index
-  url:   ""
+  url:   "post"
 
 - default: menu_category
   url:   "category"
