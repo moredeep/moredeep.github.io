@@ -22,9 +22,9 @@ keywords: [Your keywords]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "vulnerability.kr" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "vulnerability.kr" # the domain name for your site, e.g. example.com
-language: ["en", "ko"]
-default_lang: "ko"
-parallel_localizaion: false
+language: "en" #, "ko"]
+#default_lang: "ko"
+#parallel_localizaion: false
 # Supported languages list:
 # en: English
 # de: Deutsche (German)
