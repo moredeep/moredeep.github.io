@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inital Posing!"
+title:  "Inital Posting!"
 date:   2020-09-15
 last_modified_at: 2020-09-15
 categories: [etc]
