@@ -62,6 +62,7 @@ jekyll-archives:
     category: /category/:name/
     tag: /tag/:name/
 
+category_list: [python, web exploit, javascript, nodejs, programing, algorithm, etc]
 # Build settings
 markdown: kramdown
 plugins:
