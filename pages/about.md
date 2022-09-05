@@ -9,7 +9,8 @@ permalink: /about/
 - MoreDeep or moredeep :/
 - Web Exploitation, Programing
 - Security Engineer & Developer
-- Kakaobank Corp (2017 ~ now)
+- Kakaobank Corp (2017 ~ 2021.09)
+- LINE Corp (2022.04 ~ now)
 
 
 [jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
